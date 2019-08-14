@@ -2,8 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addin-drive" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sample-registration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/views/addin-drive" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/views/addin-mapreplay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/views/compliancereport" vcs="Git" />
   </component>
